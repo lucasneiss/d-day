@@ -110,7 +110,7 @@ body {
   .MAPA {
     position: relative;
     margin: 8%;
-    left: 220px;
+    left: 10%;
     width: 60%;
   }
   .press-class {
@@ -167,4 +167,5 @@ margin-bottom: 10%;
   .copyright {
     padding: 20px;
   }
+  
   
